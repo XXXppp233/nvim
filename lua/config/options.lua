@@ -7,3 +7,5 @@ vim.opt.clipboard = ""
 -- vim.opt.termguicolors =
 --   vim.opt.background = "dark"
 --
+
+--
